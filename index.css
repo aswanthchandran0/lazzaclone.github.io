@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+
+}
+
+
+
+#nav{
+  z-index: 99;
+  text-align: center;
+  
+ background-color :  black ;
+ color: white;
+ text-transform: uppercase;
+ margin-top: 30px;
+ margin-left: -20px;
+}
+#image{
+  width: 100%;
+}
+
+.container{
+  max-width: 1250px;
+  width: 100%;
+}
+
+h3{
+  text-align: center;
+ }
+
+.text-center{
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+
+.col-md-4{
+  margin-bottom: 6%;
+}
+
+#awesome-img{
+  width: 100%;
+
+}
+
+#simons-img{
+  width: 70%;
+
+}
+
+.col-lg-2 ul li{
+  margin: 8%;
+  margin-left: -2;
+  text-align: left;
+
+}
+
+.col-lg-2 ul li {
+
+  color: rgb(196, 168, 7);
+  text-align: left;
+
+}
